@@ -1,0 +1,9 @@
+interface:
+  display_name: "Eastmoney Guba Comments"
+  short_description: "Crawl and export Eastmoney Guba comments"
+  brand_color: "#D94841"
+  default_prompt: "Use $eastmoney-guba-comments to crawl permitted public Guba comments for the stock codes and date range I provide."
+
+policy:
+  allow_implicit_invocation: true
+
